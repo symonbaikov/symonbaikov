@@ -6,8 +6,8 @@ Living my profession means constantly learning and tackling new challenges. I lo
 # 🪖 Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/symonbaikov?theme=dark&font=Averia%20Sans%20Libre)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### 🎯 Github Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=symonbaikov&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=symonbaikov&icon=0&color=0)](https://visitcount.itsvg.in)
