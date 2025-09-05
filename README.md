@@ -84,7 +84,6 @@ When I'm not coding, you'll probably find me cycling 🚴‍♂️ or exploring 
 
 > I love open source and I contribute in my free time!
 
----
 
 <!--
 📈 GitHub Stats (optional, uncomment if you want!)
