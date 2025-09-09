@@ -56,6 +56,7 @@ When I'm not coding, you'll probably find me cycling 🚴‍♂️ or exploring 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Biome](https://img.shields.io/badge/Biome-4B3263?style=for-the-badge&logo=biome&logoColor=white)
 
 ---
 ## 🌟 Featured Project
