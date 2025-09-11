@@ -59,15 +59,6 @@ When I'm not coding, you'll probably find me cycling 🚴‍♂️ or exploring 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Biome](https://img.shields.io/badge/Biome-%23007ACC.svg?style=for-the-badge&logo=biome&logoColor=white)
 
----
-## 🌟 Featured Project
-
-- <b>WorkNow</b>:  
-  <a href="https://github.com/symonbaikov/worknow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=symonbaikov&repo=worknow" alt="worknow repo card"/>
-  </a>
-  <br>
-  Modern job search & workflow platform. Built with cutting-edge tech for scalability and speed.
 
 ---
 
