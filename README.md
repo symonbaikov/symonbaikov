@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Symon, a passionate Fullstack Developer who loves building scalable web applications and contributing to open source.
+Hello! I'm Symon, focused on building scalable web applications and contributing to open-source.
 
 When I'm not coding, you'll probably find me cycling 🚴‍♂️ or exploring new tech trends.
 
