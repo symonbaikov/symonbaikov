@@ -17,7 +17,7 @@ When I'm not coding, you'll probably find me cycling 🚴‍♂️ or exploring 
 ---
 ## 📂 Open Source Projects
 
-- [Planka](https://github.com/symonbaikov/planka) - A collaborative Kanban board application for project management
+- [Planka](https://github.com/plankanban/planka) - A collaborative Kanban board application for project management
 
 ---
 
