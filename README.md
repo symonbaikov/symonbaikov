@@ -1,6 +1,5 @@
 <!-- Hi there 👋 Welcome to my GitHub! -->
 
-<h1 align="center">Symon Baikov</h1>
 <p align="center">
   <b>🚀 Fullstack Developer | Open Source Enthusiast</b>
 </p>
