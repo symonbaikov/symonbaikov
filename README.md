@@ -21,6 +21,11 @@ When I'm not coding, you'll probably find me cycling 🚴‍♂️ or exploring 
 
 ---
 
+Here are several projects I’ve released, as well as repositories where I’ve taken on a maintainer role.
+- 💸 [Lumio](https://github.com/symonbaikov/lumio) -Automate finance ops with bank-statement ingestion, transaction processing, reporting, and collaborative workspaces. 
+
+---
+
 # 🪖 Leetcode Stats:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/symonbaikov?theme=dark&font=Averia%20Sans%20Libre)
