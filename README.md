@@ -22,7 +22,8 @@ When I'm not coding, you'll probably find me cycling 🚴‍♂️ or exploring 
 ---
 
 Here are several projects I’ve released, as well as repositories where I’ve taken on a maintainer role.
-- 💸 [Lumio](https://github.com/symonbaikov/lumio) -Automate finance ops with bank-statement ingestion, transaction processing, reporting, and collaborative workspaces. 
+- 💸 [Lumio](https://github.com/symonbaikov/lumio) - Automate finance ops with bank-statement ingestion, transaction processing, reporting, and collaborative workspaces.
+- 👁️ [Blinkly](https://github.com/symonbaikov/blinkly) - LookAway for Linux — eye break reminder app built with Tauri 2, Rust, React, TypeScript 
 
 ---
 
