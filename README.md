@@ -14,7 +14,7 @@ When I'm not coding, you'll probably find me cycling 🚴‍♂️ or exploring 
 
 
 ---
-## 📂 Open Source Projects
+Projects I'm contributing to
 
 - [Planka](https://github.com/symonbaikov/planka) - A collaborative Kanban board application for project management
 - [Super Productivity](https://github.com/symonbaikov/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
