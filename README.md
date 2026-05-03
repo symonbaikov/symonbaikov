@@ -26,11 +26,11 @@ Here are several projects I’ve released, as well as repositories where I’ve 
 - 👁️ [Blinkly](https://github.com/symonbaikov/blinkly) - LookAway for Linux — eye break reminder app built with Tauri 2, Rust, React, TypeScript 
 
 ---
-
+<!--
 # 🪖 Leetcode Stats:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/symonbaikov?theme=dark&font=Averia%20Sans%20Libre)
-
+!-->
 
 
 ---
