@@ -33,9 +33,6 @@ Here are several projects I’ve released, as well as repositories where I’ve 
 !-->
 
 
----
-
-
 ## 🏞️ Interests
 
 - 🚴‍♂️ Cycling
