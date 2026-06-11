@@ -41,7 +41,10 @@ Here are several projects I’ve released, as well as repositories where I’ve 
 - 🔬 Exploring new tech
 
 ---
+
+<!--
 [![Symon's GitHub stats](https://github-stats-extended.vercel.app/api?username=symonbaikov)](https://github.com/symonbaikov)
+!-->
 ## 💡 Motto
 
 > I love open source and I contribute in my free time!
