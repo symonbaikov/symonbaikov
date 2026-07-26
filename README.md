@@ -17,14 +17,15 @@ When I'm not coding, you'll probably find me cycling 🚴‍♂️ or exploring 
 Projects I'm contributing to
 
 - [Planka](https://github.com/symonbaikov/planka) - A collaborative Kanban board application for project management
-- [Super Productivity](https://github.com/symonbaikov/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [Super Productivity](https://github.com/symonbaikov/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes[...]
 
 ---
 
-Here are several projects I’ve released, as well as repositories where I’ve taken on a maintainer role.
+Here are several projects I've released, as well as repositories where I've taken on a maintainer role.
 - 💸 [Lumio](https://github.com/symonbaikov/lumio) - Automate finance ops with bank-statement ingestion, transaction processing, reporting, and collaborative workspaces.
 - 👁️ [Blinkly](https://github.com/symonbaikov/blinkly) - LookAway for Linux — eye break reminder app built with Tauri 2, Rust, React, TypeScript
-- 📊 [OpenUsage Community](https://github.com/openusage-community/openusage) - Linux-first, community-maintained AI usage tracker for Claude Code, Codex, Cursor, Copilot and other AI coding tools. Built with Tauri, Rust and TypeScript.
+- 📊 [OpenUsage Community](https://github.com/openusage-community/openusage) - Linux-first, community-maintained AI usage tracker for Claude Code, Codex, Cursor, Copilot and other AI coding tool[...]
+- 🎨 [@symonbaikov/figma-free-mcp](https://github.com/symonbaikov/figma-free-mcp) - Figma free MCP server
 
 ---
 <!--
