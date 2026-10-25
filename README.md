@@ -22,7 +22,7 @@ Projects I'm contributing to
 ---
 
 Here are several projects I've released, as well as repositories where I've taken on a maintainer role.
-- 💸 [Lumio](https://github.com/symonbaikov/lumio) - Automate finance ops with bank-statement ingestion, transaction processing, reporting, and collaborative workspaces.
+- 💸 [Seneca Ledger](https://github.com/symonbaikov/seneca) - Automate finance ops with bank-statement ingestion, transaction processing, reporting, and collaborative workspaces.
 - 👁️ [Blinkly](https://github.com/symonbaikov/blinkly) - LookAway for Linux — eye break reminder app built with Tauri 2, Rust, React, TypeScript
 - 📊 [OpenUsage Community](https://github.com/openusage-community/openusage) - Linux-first, community-maintained AI usage tracker for AI coding tools
 - 🎨 [Figma-Free-MCP](https://github.com/symonbaikov/figma-free-mcp) - Figma free MCP server
